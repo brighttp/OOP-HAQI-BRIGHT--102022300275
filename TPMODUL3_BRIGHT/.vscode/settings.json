@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Bright Eliezer\\Documents\\javafx-sdk-17.0.13\\lib\\javafx.fxml.jar"
+    ]
+}
